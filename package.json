@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "create-webpage": "^0.3.4"
+  },
+  "name": "horsepower",
+  "version": "1.0.0",
+  "description": "Energy Drink",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sudhanshu Saurav",
+  "license": "ISC"
+}
