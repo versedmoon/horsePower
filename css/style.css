@@ -234,10 +234,13 @@ header {
 	color: #fff;
 }
 .top .content h1 {
-	font-size: 46px;
-	margin-top: 22%;
+	font-size: 80px;
+	margin-top: 2%;
 	margin-bottom: 10px;
 }
+/* .hpheading{
+	font-size: 
+} */
 .top .content h2 {
 	font-size: 27px;
 	font-weight: 300;
