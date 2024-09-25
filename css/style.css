@@ -398,6 +398,12 @@ header {
 .featured-item:hover .icon-style {
 	border-radius: 0;
 }
+.highlight-text {
+    background-color: yellow; /* Choose any color you like */
+    padding: 5px;             /* Adds padding to the text */
+    border-radius: 3px;        /* Optional: Rounds the corners */
+    display: inline;           /* Ensures that the background only covers the text */
+}
 
 
 
